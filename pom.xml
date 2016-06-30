@@ -10,7 +10,7 @@
     <parent>
         <artifactId>portlet-primefaces</artifactId>
         <groupId>de.eonas.portal.parentpoms</groupId>
-        <version>1.1</version>
+        <version>1.2-SNAPSHOT</version>
     </parent>
 
     <properties>
